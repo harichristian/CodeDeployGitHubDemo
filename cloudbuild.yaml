@@ -7,6 +7,3 @@ phases:
   build:
     commands:
       - ls
-artifacts:
-  files:
-    - '**/*'
