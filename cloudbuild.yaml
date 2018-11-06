@@ -1,0 +1,12 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - ls
+  build:
+    commands:
+      - ls
+artifacts:
+  files:
+    - '**/*'
